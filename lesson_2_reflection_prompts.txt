@@ -1,7 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	A git repository of the folder is created.
+
+	To use git to keep track of changes of the folder.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	Staging area is the temporary placeholder to hold file changes that are pending to be committed.
+	It differs from the working directory (contains up to date file).
+	It differs from the repository (contains all committed changes).
+
+	It is great to be used to make multiple files commits. There are files that are related to one and other to perform the task.
+	It is logical to commit the files together.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
