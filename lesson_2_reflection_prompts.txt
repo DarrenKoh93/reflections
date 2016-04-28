@@ -31,9 +31,12 @@ organized? How would branches help?
 	However it is possible to merge the branch later on.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams helps me visualize branch structure as it constructs the 'history timeline' in a graphical manner.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	The branch merges together. All changes made in both branches are committed in the resultant branch.
+	Commits are displayed in as usual in accordance to time.
+	
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
