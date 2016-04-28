@@ -40,3 +40,10 @@ the diagram the way we do?
 	
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	automatic merging is great when there are no conflicts between files of the two branches.
+	However if there are conflicts, the merge needs to be supervised.
+	Manual merges are great as you know which conflicts that are needed to be resolved before merging.
+	However it is tedious to supervise every file of both branches.
+	
+
